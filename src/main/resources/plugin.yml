@@ -1,0 +1,8 @@
+name: DellunaTrain
+version: ${project.version}
+main: me.lewin.dellunametro.Main
+api-version: 1.18
+commands:
+  train:
+    description: Delluna metro system.
+    usage: /train
